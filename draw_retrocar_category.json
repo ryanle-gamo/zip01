@@ -1,0 +1,74 @@
+{
+    "categories": [{
+                   "category_id": "89",
+                   "category_name": "Retro Cars",
+                   "category_thumbnail": "89.png",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/zip01/master/",
+                   "animes": [{
+                              "anime_id": "1",
+                              "anime_name": "Jaguar E-Type 1961",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id": "2",
+                              "anime_name": "Cadilac Eldorado 1959",
+                              "anime_step":12
+                              },
+                              {
+                              "anime_id": "3",
+                              "anime_name": "Volkswagen Beetle 1960-1969",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "4",
+                              "anime_name": "Mini-Cooper Classic",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id": "5",
+                              "anime_name": "Ford Roadster 1933",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "6",
+                              "anime_name": "Lincoln Zephyr 1936-1940",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id": "7",
+                              "anime_name": "Mercedes-Benz 190SL 1961",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "8",
+                              "anime_name": "Aston Martin DBR1",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id": "9",
+                              "anime_name": "Ford Mustang 1967",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "10",
+                              "anime_name": "Lancia Stratos",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "11",
+                              "anime_name": "Porsche 912",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id": "12",
+                              "anime_name": "Rolls-Royce Phantom 1933",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id": "13",
+                              "anime_name": "Volkswagen Van",
+                              "anime_step":10
+                              }
+                              ]
+                   }]
+}

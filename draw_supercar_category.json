@@ -1,0 +1,134 @@
+{
+    "categories": [{
+                   "category_id": "23",
+                   "category_name": "Super Cars",
+                   "category_thumbnail": "23.png",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/zip01/master/",
+                   "animes": [{
+                              "anime_id": "1",
+                              "anime_name": "Bugatti Veyron",
+                              "anime_step":16
+                              },
+                              {
+                              "anime_id": "2",
+                              "anime_name": "Ford GT",
+                              "anime_step":19
+                              },
+                              {
+                              "anime_id": "3",
+                              "anime_name": "Maserati MC12",
+                              "anime_step":20
+                              },
+                              {
+                              "anime_id": "4",
+                              "anime_name": "McLaren MP4-12C white",
+                              "anime_step":19
+                              },
+                              {
+                              "anime_id": "5",
+                              "anime_name": "Ariel Atom 500",
+                              "anime_step":22
+                              },
+                              {
+                              "anime_id": "6",
+                              "anime_name": "Koenigsegg CC8S",
+                              "anime_step":21
+                              },
+                              {
+                              "anime_id": "7",
+                              "anime_name": "SSC Ultimate Aero XT",
+                              "anime_step":15
+                              },
+                              {
+                              "anime_id": "8",
+                              "anime_name": "Lamborghini Diablo",
+                              "anime_step":18
+                              },
+                              {
+                              "anime_id": "9",
+                              "anime_name": "Pagani Zonda C12",
+                              "anime_step":20
+                              },
+                              {
+                              "anime_id": "10",
+                              "anime_name": "BAC Mono",
+                              "anime_step":19
+                              },
+                              {
+                              "anime_id": "11",
+                              "anime_name": "Koenigsegg Agera R",
+                              "anime_step":19
+                              },
+                              {
+                              "anime_id": "12",
+                              "anime_name": "Lamborghini Aventador",
+                              "anime_step":15
+                              },
+                              {
+                              "anime_id": "13",
+                              "anime_name": "Spyker C8",
+                              "anime_step":17
+                              },
+                              {
+                              "anime_id": "14",
+                              "anime_name": "Mercedes-Benz SLR McLaren",
+                              "anime_step":20
+                              },
+                              {
+                              "anime_id": "15",
+                              "anime_name": "Noble M600",
+                              "anime_step":17
+                              },
+                              {
+                              "anime_id": "16",
+                              "anime_name": "Ferrari F12",
+                              "anime_step":14
+                              },
+                              {
+                              "anime_id": "17",
+                              "anime_name": "Ferrari LaFerrari",
+                              "anime_step":14
+                              },
+                              {
+                              "anime_id": "18",
+                              "anime_name": "Ferrari 488 GTB",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "19",
+                              "anime_name": "Hennessy Venom F5",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id": "20",
+                              "anime_name": "Lamborghini 5-95 Zagato",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id": "21",
+                              "anime_name": "McLaren P1 GTR",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id": "22",
+                              "anime_name": "Radical SR8 RSX",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id": "23",
+                              "anime_name": "Trion Nemesis",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "24",
+                              "anime_name": "Vencer Santhe",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "25",
+                              "anime_name": "Zenvo ST1",
+                              "anime_step":9
+                              }
+                              ]
+                   }]
+}

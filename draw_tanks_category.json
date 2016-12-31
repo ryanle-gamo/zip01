@@ -1,0 +1,134 @@
+{
+    "categories": [{
+                   "category_id": "24",
+                   "category_name": "Tanks",
+                   "category_thumbnail": "24.png",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/zip01/master/",
+                   "animes": [{
+                              "anime_id": "1",
+                              "anime_name": "Light Tank MC-1",
+                              "anime_step":21
+                              },
+                              {
+                              "anime_id": "2",
+                              "anime_name": "Light Tank A-20",
+                              "anime_step":26
+                              },
+                              {
+                              "anime_id": "3",
+                              "anime_name": "Medium Tank T-34",
+                              "anime_step":21
+                              },
+                              {
+                              "anime_id": "4",
+                              "anime_name": "Medium Tank T-44",
+                              "anime_step":24
+                              },
+                              {
+                              "anime_id": "5",
+                              "anime_name": "Heavy Tank KV-2",
+                              "anime_step":22
+                              },
+                              {
+                              "anime_id": "6",
+                              "anime_name": "Heavy Tank IS-3",
+                              "anime_step":22
+                              },
+                              {
+                              "anime_id": "7",
+                              "anime_name": "Assault gun SU-85",
+                              "anime_step":20
+                              },
+                              {
+                              "anime_id": "8",
+                              "anime_name": "Assault gun SU-152",
+                              "anime_step":22
+                              },
+                              {
+                              "anime_id": "9",
+                              "anime_name": "Light Tank VK 1602 Leopard",
+                              "anime_step":23
+                              },
+                              {
+                              "anime_id": "10",
+                              "anime_name": "Light Tank PzKpfw II",
+                              "anime_step":24
+                              },
+                              {
+                              "anime_id": "11",
+                              "anime_name": "Medium Tank PzKpfw III",
+                              "anime_step":29
+                              },
+                              {
+                              "anime_id": "12",
+                              "anime_name": "Medium Tank Panter",
+                              "anime_step":25
+                              },
+                              {
+                              "anime_id": "13",
+                              "anime_name": "Heavy Tank Tiger I",
+                              "anime_step":22
+                              },
+                              {
+                              "anime_id": "14",
+                              "anime_name": "Heavy Tank Maus",
+                              "anime_step":22
+                              },
+                              {
+                              "anime_id": "15",
+                              "anime_name": "Assault gun StuG III",
+                              "anime_step":23
+                              },
+                              {
+                              "anime_id": "16",
+                              "anime_name": "Medium Tank T69",
+                              "anime_step":15
+                              },
+                              {
+                              "anime_id": "17",
+                              "anime_name": "Heavy Tank T57/58",
+                              "anime_step":14
+                              },
+                              {
+                              "anime_id": "18",
+                              "anime_name": "Assault Gun T95",
+                              "anime_step":15
+                              },
+                              {
+                              "anime_id": "19",
+                              "anime_name": "Medium Tank M46 Patton",
+                              "anime_step":15
+                              },
+                              {
+                              "anime_id": "20",
+                              "anime_name": "Assault Gun M7 HMC Priest",
+                              "anime_step":12
+                              },
+                              {
+                              "anime_id": "21",
+                              "anime_name": "Assault Gun Birch Gun",
+                              "anime_step":12
+                              },
+                              {
+                              "anime_id": "22",
+                              "anime_name": "Assault Gun FV3805",
+                              "anime_step":13
+                              },
+                              {
+                              "anime_id": "23",
+                              "anime_name": "Assault Gun AT39 Tortoise",
+                              "anime_step":13
+                              },
+                              {
+                              "anime_id": "24",
+                              "anime_name": "Assault Gun AT8",
+                              "anime_step":13
+                              },
+                              {
+                              "anime_id": "25",
+                              "anime_name": "Assault Gun AT-15A",
+                              "anime_step":15
+                              }
+                              ]
+                   }]
+}
